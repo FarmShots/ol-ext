@@ -1,0 +1,11 @@
+{
+  "name": "ol-ext-fs",
+  "homepage": "https://github.com/FarmShots/ol4-ext",
+  "main": ["./dist/ol-ext.js", "./dist/ol-ext.css"],
+  "dependencies": {
+    "ol4-dist": "git://github.com/FarmShots/ol4-dist#master"
+  },
+  "devDependencies" : {
+    "ol4-dist": "git://github.com/FarmShots/ol4-dist#master"
+  }
+}
